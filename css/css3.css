@@ -209,6 +209,9 @@ p {
 }
 
 @media (max-width: 820px) {
+    #btnClose{
+        margin-top: 15px;
+    }
     h1 {
         padding-top: 1px;
         margin-bottom: 10px;
