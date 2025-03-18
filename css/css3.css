@@ -210,6 +210,11 @@ p {
         height: 100px;
         width: 100px;
     }
+    
+    img {
+        width: 97%;
+        height: 97%;
+    }
 }
 
 @media (max-width: 820px) {
