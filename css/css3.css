@@ -206,9 +206,28 @@ p {
         background-size: cover;
         background-attachment: fixed;
     }
-    #PictureBtn {
-        height: 100px;
-        width: 100px;
+}
+
+@media (max-width: 1366px) {
+    h1 {
+        padding-top: 1px;
+        margin-bottom: 10px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    .invitation-card img {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .panel {
+        width: 100%;
+        height: 100vh;
+        background-size: cover;
+        background-attachment: fixed;
     }
     
     img {
