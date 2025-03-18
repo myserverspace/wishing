@@ -229,6 +229,18 @@ p {
         background-size: cover;
         background-attachment: fixed;
     }
+    .invitation-card {
+        width: 97%;
+    }
+
+    .responsive-image {
+        width: 100%;
+    }
+
+    .panel {
+        width: 100%;
+        height: 100vh;
+    }
     
     img {
         width: 97%;
